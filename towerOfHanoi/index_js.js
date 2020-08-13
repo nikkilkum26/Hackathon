@@ -195,7 +195,7 @@ divE.append(br1,br2,br3,br4,br5,br6,br7,br8,br9,br10,br11,br12,br13,br14,br15,br
 
 divT=document.createElement('div');
 divT.setAttribute('class',"text1");
-divT.innerHTML="Instructions: First select the disks and press start game options ...press another time to close disk and to choose for next disk .... ratings varies from 3 to 1 depends on seconds counts more the count less will be ratings ... 0 incase if you exceede more time... 3-star===> PRO 2-Star===> GooD  1-star====>OKaY  0-star====> you lost the game!!!!!!!!!";
+divT.innerHTML="Instructions: First select the disks and press start game options ...press another time to close disk and to choose for next disk .... ratings varies from 3 to 1 depends on seconds count more the count less will be ratings ... 0 incase if you exceede more time... 3-star===> PRO 2-Star===> GooD  1-star====>OKaY  0-star====> you lost the game!!!!!!!!!";
 
 divE.append(divT);
 main_div.append(divE);
